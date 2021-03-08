@@ -7,6 +7,7 @@
 - http://www.orangepi.org/orangepiplus2/
 - https://github.com/u-boot/u-boot/blob/master/doc/README.rockchip
 
+## Serial com motherboard access
 
 - https://www.theobroma-systems.com/rk3399-q7-user-manual/03-using-the.evk.html
 - ft232r usb uart driver https://ftdichip.com/drivers/
