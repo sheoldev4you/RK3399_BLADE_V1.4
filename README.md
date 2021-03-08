@@ -42,3 +42,7 @@ After system bootup, the login console appears on the terminal:
 
 rk3399-q7 login:
 You can log in as root with password root or as user user with password user.
+
+https://en.t-firefly.com/product/coreboard/core_3399
+
+![rk3399](./assets/rk3399.png)
